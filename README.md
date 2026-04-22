@@ -70,7 +70,7 @@ The SQL file covers the following concepts:
 ```
 healthcare_analysis/
 │
-├── healthcare_dataset.csv       # Raw dataset
+├── healthcare_dataset.xlsx      # Raw dataset
 ├── healthcare_queries.sql       # SQL analysis queries
 ├── healthcare_analysis dashboard.pbix  # Power BI dashboard
 ├── dashboard.png                # Dashboard screenshot
